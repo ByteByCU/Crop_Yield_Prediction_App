@@ -1,5 +1,6 @@
 streamlit
 joblib
+openpyxl
 scikit-learn
 pandas
 numpy
